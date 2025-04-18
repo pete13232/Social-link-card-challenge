@@ -1,3 +1,4 @@
+<<<<<<< main
 # Frontend Mentor - Social links profile solution
 
 This is a solution to the [Social links profile challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/social-links-profile-UG32l9m6dQ). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
@@ -87,3 +88,6 @@ Users should be able to:
 ## Author
 - Frontend Mentor - [@pete13232](https://www.frontendmentor.io/profile/pete13232)
 - Github - [@pete13232](https://github.com/pete13232)
+=======
+
+>>>>>>> gh-pages
