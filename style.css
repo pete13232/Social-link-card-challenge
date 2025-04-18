@@ -24,7 +24,12 @@ footer {
 }
 
 footer a{
-    color: rgb(147, 245, 245)
+    color: rgb(16, 242, 242)
+}
+
+footer a:hover{
+    color: hsl(75, 94%, 57%);
+    transition-duration: 200ms;
 }
 
 
@@ -77,26 +82,24 @@ img {
     /* margin: 20px; */
 }
 
-button {
+#card-button a {
     background-color: hsl(0, 0%, 20%);
     padding: 15px;
     width: 100%;
     font-weight: 600;
     border-radius: 8px;
     border: 0;
+    text-align: center;
 }
 
-button:hover {
+#card-button a:hover {
+    color: hsl(0, 0%, 20%);
     cursor: pointer;
     background-color: hsl(75, 94%, 57%);
     transition-duration: 500ms;
 }
 
-button:hover a {
-    color: hsl(0, 0%, 20%);
-}
-
-a {
+#card-button a {
     text-decoration: none;
 }
 
